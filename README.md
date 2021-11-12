@@ -1,1 +1,3 @@
 # odin-recipes
+Today is 12 Nov 2021. This is my first project with Odin.
+I am going to make a simple website with recipes as a result of learning HTML: tags, file structure, arranging text, inserting images, arranging pages with relative links...
